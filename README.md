@@ -42,3 +42,10 @@ This project is made to practice **JavaScript events and DOM manipulation**.
 
 ## ⭐ Author
 **Dev Khurana**
+## GUI Snapshot 
+
+<img width="496" height="254" alt="image" src="https://github.com/user-attachments/assets/4f259366-9ea1-4499-99ab-aa37bc6ec525" />
+
+
+
+
